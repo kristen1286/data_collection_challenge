@@ -1,13 +1,21 @@
 # Mars Mars Mars! (data_collection_challenge)
 ![mar season diagram](images/mars.jpg)
 ---
-## Background
+## Table of Contents
+- [Background](#background)
+- [Part 1: Scrape Titles and Preview Text from Mars News](#part-1-scrape-titles-and-preview-text-from-mars-news)
+- [Part 2: Scrape and Analyze Mars Weather Data](#part-2-scrape-and-analyze-mars-weather-data)
+
+---
+## Background <a name="background"></a>
+
 Take on a full web-scraping and data analysis with the knowledge to identify HTML elements on a page,
 identify their id and class attributes, and use this knowledge to extract information via both automated 
 browsing with Splinter and HTML parsing with Beautiful Soup.
 
 ---
-## Part 1: Scrape Titles and Preview Text from Mars News
+## Part 1: Scrape Titles and Preview Text from Mars News <a name="part-1-scrape-titles-and-preview-text-from-mars-news"></a>
+
 -  Open the Jupyter Notebook in the starter code folder named part_1_mars_news.ipynb. 
   1. Use automated browsing to visit the Mars news siteLinks to an external site.. Inspect the page to 
       identify which elements to scrape.
@@ -24,7 +32,8 @@ browsing with Splinter and HTML parsing with Beautiful Soup.
   4.  Optionally, store the scraped data in a file (to ease sharing the data with others). To do so, export the
        scraped data to a JSON file. (Note: there will be noextra points for completing this.
 ---
-## Part 2: Scrape and Analyze Mars Weather Data
+## Part 2: Scrape and Analyze Mars Weather Data <a name="part-2-scrape-and-analyze-mars-weather-data"></a>
+
 -  Open the Jupyter Notebook in the starter code folder named part_2_mars_weather.ipynb. You will work in this code
     as you follow the steps below to scrape and analyze Mars weather data.
 1. Use automated browsing to visit the Mars Temperature Data SiteLinks to an external site.. Inspect the page to 
